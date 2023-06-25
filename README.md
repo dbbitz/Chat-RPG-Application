@@ -2,6 +2,9 @@
   
 Link de acesso: https://chat-rpg.ddns.net/home
 
+![image](https://github.com/dbbitz/Chat-RPG-Application/assets/81662636/121dcd4f-ddd0-4dec-904c-857b85c907b3)
+
+
 ---
 
 ## Objetivo
